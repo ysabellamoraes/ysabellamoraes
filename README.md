@@ -1,6 +1,7 @@
 ### Hey Devs 👋
 
 Ingressando na área de Tecnologia através da plataforma Origamid e esperando uma oportunidade para migrar de carreira.
+
 Atualmente estou cursando Marketing na Fatec Sebrar, com conclusão em Julho de 2024. 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
