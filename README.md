@@ -1,4 +1,4 @@
-### Hey Devs 🫧
+### Hey Devs 🌹
 
 Ingressando na área de Tecnologia através da plataforma Origamid e esperando uma oportunidade para migrar de carreira.
 
