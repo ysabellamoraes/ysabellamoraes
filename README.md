@@ -29,11 +29,11 @@ object ysabella {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/ysabellamoraes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysabellamoraes&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/ysabellamoraes">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ysabellamoraes&show_icons=true&theme=dracula&line_height=27" alt="ysabella moraes github stats"/>
 </a>
 
